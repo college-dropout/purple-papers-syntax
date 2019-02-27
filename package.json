@@ -1,0 +1,16 @@
+{
+  "name": "purple-papers-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Purple Dark Syntax theme",
+  "keywords": [
+    "Purple",
+    "dark",
+    "syntax"
+  ],
+  "repository": "https://github.com/college-dropout/purple-papers-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
