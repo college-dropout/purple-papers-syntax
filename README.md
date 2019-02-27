@@ -5,7 +5,7 @@ This Atom theme is identical to the original One Dark theme, except that the col
 
 ## Screenshot
 
-![Screenshot](https://github.com/college-dropout/purple-papers-syntax/raw/master/screenshot.png =841x532)
+![Screenshot](https://github.com/college-dropout/purple-papers-syntax/raw/master/screenshot.png)
 
 Font used in screenshots 'Source Code Pro'
 
