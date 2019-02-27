@@ -2,6 +2,7 @@
 
 This Atom theme is identical to the original One Dark theme, except that the colors are slightly changed.
 
+
 ## Screenshot
 
 <p><img src="https://github.com/college-dropout/purple-papers-syntax/raw/master/screenshot.png" alt="Ruby screenshot" width="841px" height="532px"></p>
